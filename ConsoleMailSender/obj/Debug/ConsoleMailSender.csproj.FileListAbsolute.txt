@@ -1,0 +1,6 @@
+C:\Users\emel__000\source\repos\C#3\Lesson3-1\MailSender\ConsoleMailSender\bin\Debug\ConsoleMailSender.exe.config
+C:\Users\emel__000\source\repos\C#3\Lesson3-1\MailSender\ConsoleMailSender\bin\Debug\ConsoleMailSender.exe
+C:\Users\emel__000\source\repos\C#3\Lesson3-1\MailSender\ConsoleMailSender\bin\Debug\ConsoleMailSender.pdb
+C:\Users\emel__000\source\repos\C#3\Lesson3-1\MailSender\ConsoleMailSender\obj\Debug\ConsoleMailSender.csproj.CoreCompileInputs.cache
+C:\Users\emel__000\source\repos\C#3\Lesson3-1\MailSender\ConsoleMailSender\obj\Debug\ConsoleMailSender.exe
+C:\Users\emel__000\source\repos\C#3\Lesson3-1\MailSender\ConsoleMailSender\obj\Debug\ConsoleMailSender.pdb
