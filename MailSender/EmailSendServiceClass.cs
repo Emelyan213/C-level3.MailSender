@@ -16,7 +16,9 @@ namespace MailSender
 
         public void SendEmail(string UserName, System.Security.SecureString Password, string nameMessage, string bodyMassage)
         {
-            using (var email = new MailMessage("emelyan980@yandex.ru", "emel_galushko@mail.ru"))
+            
+            using (var email = new MailMessage("shmachilin@yandex.ru", "shmachilin@gmail.com"))
+            //using (var email = new MailMessage("emelyan980@yandex.ru", "emel_galushko@mail.ru"))
             {
                 email.Subject = nameMessage;
                 email.Body = bodyMassage;
@@ -26,7 +28,9 @@ namespace MailSender
                     var user = UserName;
                     var password = Password;
                     client.Credentials = new NetworkCredential(user, password);
-                    client.EnableSsl = false;
+                    client.EnableSsl = true;
+                    //client.EnableSsl = false;
+
 
                     client.Send(email);
                 }

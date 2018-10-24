@@ -6,10 +6,11 @@
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="Themes/ShinyBlue/Theme.xaml"/>
+                <!--<ResourceDictionary Source="Themes/ShinyBlue/Theme.xaml"/>-->
+                <ResourceDictionary Source="Themes/RainierOrange/Theme.xaml"/>
             </ResourceDictionary.MergedDictionaries>
 
-            <Style TargetType="Label">
+            <!--<Style TargetType="Label">
                  <Setter Property="Foreground">
                      <Setter.Value>
                          <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
@@ -20,7 +21,7 @@
                          </LinearGradientBrush>
                     </Setter.Value>
                  </Setter>
-            </Style>
+            </Style>-->
 
         </ResourceDictionary>    
     </Application.Resources>

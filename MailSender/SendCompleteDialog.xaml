@@ -8,7 +8,7 @@
         Title="SendCompleteDialog" Height="257" Width="514" 
         ResizeMode="NoResize">
     <Grid>
-        <Label Content="Почта отправлена" Margin="205,80,188,0" Height="26" VerticalAlignment="Top" >
+        <Label Content="Почта отправлена" Margin="199,80,184.2,0" Height="26" VerticalAlignment="Top" >
             <Label.Effect>
                 <DropShadowEffect/>
             </Label.Effect>

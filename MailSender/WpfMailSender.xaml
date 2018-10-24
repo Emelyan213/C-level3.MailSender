@@ -24,10 +24,10 @@
                 </Style>
             </TextBlock.Style>
         </TextBlock>
-        <PasswordBox Name="Password_PasswordBox" Margin="370,120,282,0" VerticalAlignment="Top"/>
-        <TextBox Name="UserName_TextBox" HorizontalAlignment="Left" Height="18" Margin="190,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <PasswordBox Name="Password_PasswordBox" Margin="370,120,281.6,0" VerticalAlignment="Top" Height="24"/>
+        <TextBox Name="UserName_TextBox" HorizontalAlignment="Left" Height="24" Margin="190,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
         <Label Margin="190,92,0,0" Content="Имя пользователя" VerticalAlignment="Top" Height="23" HorizontalAlignment="Left" Width="150"/>
-        
+
         <TextBox Name="tbNameMessage" HorizontalAlignment="Left" Height="23" Margin="190,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.547,0.545"/>
         <TextBlock HorizontalAlignment="Left" Margin="190,155,0,0" TextWrapping="Wrap" Text="Название письма" VerticalAlignment="Top"/>
         <TextBox Name="tbBodyMassage" HorizontalAlignment="Left" Height="23" Margin="370,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.547,0.545"/>
